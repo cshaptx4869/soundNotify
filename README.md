@@ -10,7 +10,8 @@
 
 在线体验地址：
 
-- [GitHub](https://cshaptx4869.github.io/mypage/soundNotify/soundNotify.html)
+- [JQ22](https://www.jq22.com/yanshi24513)
+- [GitHub](https://cshaptx4869.github.io/mypage/soundNotify/soundNotify.html)（优先更新!）
 
 ![](https://foruda.gitee.com/images/1673592532170882402/b58c7ac9_5507348.jpeg)
 
